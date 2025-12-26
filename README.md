@@ -27,28 +27,28 @@ To run this project, you will need to add the following environment variables to
 - Node.js 16+
 - API Key dari OpenWeatherMap
 
-    1. Setup Backend (FastAPI): 
+1. Setup Backend (FastAPI): 
     Masuk ke direktori backend
         
         cd backend
 
-    2. Virtual Environment
+2. Virtual Environment
     Perintah untuk instalasi venv:
 
         python -m venv venv
         source venv/bin/activate
 
-    3. Install dependensi
+3. Install dependensi
     Untuk menambahkan Library Python pada venv
     
         pip install -r requirements.txt
 
-    4. Buat file .env
+4. Buat file .env
     Tambahkan API Key Anda
 
         WEATHER_API_KEY=your_api_key_here
     
-    5. Jalankan server:
+5. Jalankan server:
     Ujicoba pada cmd
 
         uvicorn main:app --reload
@@ -58,16 +58,17 @@ Pastikan Gunakan:
 - React
 - Vite 
 
-    1.  Masuk ke direktori frontend 
+1.  Masuk ke direktori frontend 
     Ketik perintah ini pada cmd:
     
         cd frontend
-    2. Install dependensi:
+2. Install dependensi:
     
     Bash
-    
+   
         npm install
-    3. Mode pengembangan
+   
+4. Mode pengembangan
     Ketikkan Perintah untuk menghidupkan server lokal:
         
         npm run dev
