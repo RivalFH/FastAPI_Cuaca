@@ -27,7 +27,7 @@ To run this project, you will need to add the following environment variables to
 1.  Prasyarat
 - Python 3.9+
 - Node.js 16+
-- API Key dari OpenWeatherMap
+- API Key dari Penyedia API Cuaca
 
 1. Setup Backend (FastAPI): 
     Masuk ke direktori backend
