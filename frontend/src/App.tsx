@@ -88,8 +88,8 @@ function App() {
               </div>
             <div style={styles.attribution}>
                 <a href="https://www.weatherapi.com/" title="Free Weather API" target="_blank" rel="noreferrer">
-                Data Dari<img 
-                src="//cdn.weatherapi.com/v4/images/weatherapi_logo.png" 
+                Data Dari
+                <img src="//cdn.weatherapi.com/v4/images/weatherapi_logo.png" 
                 alt="Weather data by WeatherAPI.com"   
                 style={{ width: '100px', marginTop: '15px' }}
                 />
