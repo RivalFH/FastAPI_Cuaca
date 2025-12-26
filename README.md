@@ -2,13 +2,15 @@
 
 Aplikasi pemantau cuaca modern yang dibangun dengan FastAPI sebagai penyedia data (backend) dan React + Vite sebagai antarmuka pengguna (frontend). Proyek ini memungkinkan pengguna mencari prakiraan cuaca secara real-time berdasarkan lokasi.
 
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/23c1d633-f37f-49e9-a035-df108efb9271" />
 
 # 🚀 Fitur Utama :
 - Real-time Weather: Data cuaca terkini menggunakan OpenWeatherMap API atau provider serupa.
 - Fast & Lightweight: Backend performa tinggi dengan FastAPI dan frontend super cepat dengan Vite.
 - Responsive Design: Tampilan yang optimal di perangkat mobile maupun desktop.
 - Clean Architecture: Pemisahan yang jelas antara logika bisnis (Python) dan UI (TypeScript/JavaScript).
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5c1e8c26-ed22-4d46-8450-467d1d00fba3" />
 
 
 ## Environment Variables
